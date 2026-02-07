@@ -93,9 +93,9 @@ Combining Python backends with modern frontends to create end-to-end AI-powered 
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjanap&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Sanjana's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanaspanda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Sanjana's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanap&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanaspanda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -104,9 +104,9 @@ Combining Python backends with modern frontends to create end-to-end AI-powered 
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjanap&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanjanaspanda&theme=tokyonight&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanjanap&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/sanjanap)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanjanaspanda&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/sanjanaspanda)
 
 </div>
 
