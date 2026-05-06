@@ -47,8 +47,6 @@ I'm a developer obsessed with ML, AI, and building intelligent systems. I specia
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -84,7 +82,7 @@ Implementing MCP servers and clients to enable seamless AI-tool integration for 
 
 ### Full-Stack Intelligence
 
-Combining Python backends with modern frontends to create end-to-end AI-powered applications.
+Combining Python/Java backends with modern frontends to create end-to-end AI-powered applications.
 
 </div>
 
