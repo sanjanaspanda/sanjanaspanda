@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Python-first developer obsessed with ML, AI, and building intelligent systems. I specialize in Retrieval-Augmented Generation (RAG), Large Language Models, and the Model Context Protocol (MCP). Java and Spring Boot are my secondary languages for building robust, enterprise-grade backend systems. I'm equally comfortable across the full stack—from crafting elegant microservices to modern frontends. My passion lies in solving complex problems with creative solutions and making an impact through open source contributions.
+I'm a developer obsessed with ML, AI, and building intelligent systems. I specialize in Retrieval-Augmented Generation (RAG), Large Language Models, and the Model Context Protocol (MCP). Java and Spring Boot are my secondary languages for building robust, enterprise-grade backend systems. I'm equally comfortable across the full stack—from crafting elegant microservices to modern frontends. My passion lies in solving complex problems with creative solutions and making an impact through open source contributions.
 
 - Python-first, ML/AI specialist
 - Java & Spring Boot for enterprise backends
